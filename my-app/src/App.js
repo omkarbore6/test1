@@ -17,8 +17,9 @@ function App() {
             aria-controls="navbarSupportedContent"
             aria-expanded="false"
             aria-label="Toggle navigation"
+            style={{ color: "white !impotant" }}
           >
-            <span className="navbar-toggler-icon text-white" style={{color:"white"}}></span>
+            <span className="navbar-toggler-icon " style={{color:"white !important"}}></span>
           </button>
           <div
             className="collapse navbar-collapse text-white "
